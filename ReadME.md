@@ -1,5 +1,7 @@
 GiftScribe - An app to track gift ideas for fiends and family.
 
+Layout for this app should be done with mobile display as first priority
+
 Functionality - MVP
 
     * User logs gir ideas that are storin in a sql database
