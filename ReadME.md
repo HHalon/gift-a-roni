@@ -46,3 +46,8 @@ _ modal for adding recipient
 _ modal for adding event
 _ modal for adding gift idea
 _ Recipient page showing list and editing functions \* Page for returing api results
+
+
+Initial DB Models
+
+![DB Models](DB-modeling.jpg);
